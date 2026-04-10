@@ -31,12 +31,12 @@
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/network-ip-pool"
+    "url": "https://github.com/KalpeshDongarkar/netrangex"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/network-ip-pool/issues"
+    "url": "https://github.com/KalpeshDongarkar/netrangex"
   },
-  "homepage": "https://github.com/yourusername/network-ip-pool#readme",
+  "homepage": "https://github.com/KalpeshDongarkar/netrangex",
   "engines": {
     "node": ">=12.0.0"
   },
