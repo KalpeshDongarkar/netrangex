@@ -1,0 +1,46 @@
+{
+  "name": "netrangex",
+  "version": "1.0.0",
+  "description": "A professional IP pool generator for calculating network information from IP addresses and subnet masks",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": [
+    "ip",
+    "subnet",
+    "ip-pool",
+    "networking",
+    "network-tools",
+    "ip-range",
+    "ip-range-generator",
+    "subnet-calculator",
+    "cidr",
+    "cidr-range",
+    "network",
+    "network-utils",
+    "ip-utils",
+    "ip-calculator",
+    "range-generator",
+    "ipv4",
+    "network-range",
+    "subnet-parser"
+  ],
+  "author": "Kalpesh Dongarkar <kalpeshdongarkar67@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/network-ip-pool"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/network-ip-pool/issues"
+  },
+  "homepage": "https://github.com/yourusername/network-ip-pool#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
