@@ -1,6 +1,6 @@
 {
   "name": "netrangex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A professional IP pool generator for calculating network information from IP addresses and subnet masks",
   "main": "index.js",
   "scripts": {
